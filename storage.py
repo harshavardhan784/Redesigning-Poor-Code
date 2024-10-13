@@ -19,7 +19,7 @@ class Storage:
         """
         self.file_path = file_path
 
-        def save_data(self, data: Dict[str, List[Dict[str, Any]]]):
+    def save_data(self, data: Dict[str, List[Dict[str, Any]]]):
         """
         Save data to the JSON file.
 
