@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Impact of label noise on learning complex features",
+      "author": "Harsha ",
+      "isbn": "036",
+      "is_available": false
+    },
+    {
+      "title": "Simplicity Bias",
+      "author": "Shah et al",
+      "isbn": "000",
+      "is_available": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+2024-10-13 20:20:54,491 - INFO - Book added: 036
+2024-10-13 20:21:23,914 - INFO - Book updated: 036
+2024-10-13 20:21:39,449 - INFO - User added: 007
+2024-10-13 20:21:48,824 - INFO - User updated: 007
+2024-10-13 20:22:09,370 - INFO - User added: 7
+2024-10-13 20:22:44,122 - INFO - Book checked out: 036 by user: 007
+2024-10-13 20:23:00,890 - INFO - Book added: 000
+2024-10-13 20:23:11,930 - INFO - Book checked out: 000 by user: 007
+2024-10-13 20:23:33,493 - INFO - Book returned: 000 by user: 007
